@@ -1,0 +1,68 @@
+// ===== TRANSLATIONS =====
+const translations = {
+    fr: {
+        subtitle: "Minecraft Builder",
+        projetsTitle: "Projets",
+        contactTitle: "Contact",
+        discordLabel: "Discord",
+        twitterLabel: "Twitter",
+        aboutTitle: "À propos",
+        aboutText1: "Je suis actuellement en stage chez un producteur d’énergie photovoltaïque, avec une forte sensibilité pour l’Histoire, la paléontologie et les activités en pleine nature comme le kayak. Ces centres d’intérêt influencent mon approche créative, en apportant cohérence et réalisme à mes constructions.",
+        aboutText2: "Builder sur Minecraft depuis 2014, je fais aujourd’hui partie de l’association Endorah. J’ai également occupé un poste de staff architecte au sein de la communauté multi-plateforme Historycraft jusqu’en 2017. Au fil du temps, j’ai eu l’opportunité de réaliser plusieurs commissions, notamment pour Electronic Arts.",
+        aboutText3: "Je suis polyvalent et à l’aise sur différents domaines : construction architecturale, organique, terraforming, painting/texturing ainsi que modélisation 3D via Blender. J’utilise également des outils externes comme WorldMachine et Illustrator pour enrichir mes projets, ainsi qu’un ensemble de plugins tels que Axiom, Arceon, GoPaint, GoBrush, VoxelSniper, Loft, WorldEdit et FAWE.",
+        aboutText4: "Disponible principalement les vendredis soirs et week-ends, j’apprécie particulièrement le travail en équipe, qui permet de pousser plus loin la qualité et la cohérence des projets.",
+        legalMentions: "Mentions légales",
+        copyright: "© 2026 Spinophore – Minecraft Builder. Tous droits réservés.",
+        modalClose: "Fermer",
+        modalPrev: "Image précédente",
+        modalNext: "Image suivante"
+    },
+    en: {
+        subtitle: "Minecraft Builder",
+        projetsTitle: "Projects",
+        contactTitle: "Contact",
+        discordLabel: "Discord",
+        twitterLabel: "Twitter",
+        aboutTitle: "About",
+        aboutText1: "I am currently doing an internship at a photovoltaic energy producer. I enjoy History, Paleontology and Kayaking.",
+        aboutText2: "I have been playing Minecraft for several years and am currently a builder with the Endorah association. Until 2017 I was a staff architect in a multi-platform community (Historycraft). I have also done a number of commissions, including for Electronic Arts.",
+        aboutText3: "I have been building since 2014 and in an association since 2021. I am comfortable with building, organic work, terraforming, painting/texturing and 3D modelling (Blender). I use WorldMachine, Illustrator and Blender externally; for plugins, Axiom, Arceon, GoPaint, GoBrush, VoxelSniper, Loft, WorldEdit and FAWE. I plan to dedicate time at least on Friday evenings and weekends, and I enjoy building with others.",
+        legalMentions: "Legal Notice",
+        copyright: "© 2026 Spinophore – Minecraft Builder. All rights reserved.",
+        modalClose: "Close",
+        modalPrev: "Previous image",
+        modalNext: "Next image"
+    },
+    es: {
+        subtitle: "Minecraft Builder",
+        projetsTitle: "Proyectos",
+        contactTitle: "Contacto",
+        discordLabel: "Discord",
+        twitterLabel: "Twitter",
+        aboutTitle: "Sobre mí",
+        aboutText1: "Actualmente estoy en prácticas en un productor de energía fotovoltaica. Aficionado a la Historia, la Paleontología y el Kayak.",
+        aboutText2: "Jugador de Minecraft desde hace varios años, actualmente soy builder en la asociación Endorah. Hasta 2017 fui staff arquitecto en una comunidad multiplataforma (Historycraft). También he realizado algunas comisiones, en particular para Electronic Arts.",
+        aboutText3: "Construyo desde 2014 y en asociación desde 2021. Me manejo bien en edificios, orgánico, terraforming, painting/texturing y modelado 3D (Blender). Uso WorldMachine, Illustrator y Blender como herramientas externas; en plugins: Axiom, Arceon, GoPaint, GoBrush, VoxelSniper, Loft, WorldEdit y FAWE. Tengo previsto dedicar tiempo al menos los viernes por la noche y los fines de semana, y me gusta construir en equipo.",
+        legalMentions: "Aviso legal",
+        copyright: "© 2026 Spinophore – Minecraft Builder. Todos los derechos reservados.",
+        modalClose: "Cerrar",
+        modalPrev: "Imagen anterior",
+        modalNext: "Imagen siguiente"
+    },
+    de: {
+        subtitle: "Minecraft Builder",
+        projetsTitle: "Projekte",
+        contactTitle: "Kontakt",
+        discordLabel: "Discord",
+        twitterLabel: "Twitter",
+        aboutTitle: "Über mich",
+        aboutText1: "Ich mache derzeit ein Praktikum bei einem Produzenten von Photovoltaik-Energie. Ich interessiere mich für Geschichte, Paläontologie und Kajakfahren.",
+        aboutText2: "Ich spiele seit einigen Jahren Minecraft und bin derzeit Builder in der Vereinigung Endorah. Bis 2017 war ich Staff-Architekt in einer Multi-Plattform-Community (Historycraft). Ich habe außerdem einige Auftragsarbeiten realisiert, unter anderem für Electronic Arts.",
+        aboutText3: "Ich baue seit 2014 und in einer Vereinigung seit 2021. Ich bin vertraut mit Gebäudebau, Organischem, Terraforming, Painting/Texturing und 3D-Modellierung (Blender). Extern nutze ich WorldMachine, Illustrator und Blender; bei Plugins Axiom, Arceon, GoPaint, GoBrush, VoxelSniper, Loft, WorldEdit und FAWE. Ich plane, mindestens freitagabends und an Wochenenden Zeit zu investieren, und baue gerne mit anderen zusammen.",
+        legalMentions: "Impressum",
+        copyright: "© 2026 Spinophore – Minecraft Builder. Alle Rechte vorbehalten.",
+        modalClose: "Schließen",
+        modalPrev: "Vorheriges Bild",
+        modalNext: "Nächstes Bild"
+    }
+};
