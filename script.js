@@ -246,6 +246,4 @@ document.addEventListener('DOMContentLoaded', () => {
             openProjectModal(item);
         });
     });
-    
-    console.log('x_Ced_x Portfolio loaded');
 });
